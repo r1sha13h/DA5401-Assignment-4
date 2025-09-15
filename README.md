@@ -1,5 +1,7 @@
 Name: Rishabh Mishra
+
 Roll No: DA25M025
+
 Date: 15 September, 2025
 
 This project demonstrates the use of Gaussian Mixture Models (GMM) for synthetic data generation to tackle the problem of class imbalance in credit card fraud detection.
